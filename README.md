@@ -1,2 +1,2 @@
-# Test-Discord-Bot
-This is just my test bot for Discord. Really ez to code.
+# Python-Discord-Bot
+This is just my python test bot for Discord. Really ez to code.
